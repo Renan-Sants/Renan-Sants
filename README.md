@@ -13,7 +13,6 @@ Desenvolvedor Full Stack em formação. Estou em busca da minha primeira oportun
 
 **Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
 **Ferramentas**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
